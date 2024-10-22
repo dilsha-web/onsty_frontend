@@ -6,14 +6,13 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #1d2a54;
-    
 }
 
 
 /* Hero Section */
 .hero {
     position: relative;
-    height: 60vh; 
+    height: 80vh; 
     overflow: hidden; 
     background: linear-gradient(#1c3144, #6c757d);
 }

@@ -315,6 +315,9 @@ color: white;
     </div>
 
 </section>
+<div class="container back-to-home mt-4" data-aos="fade-up">
+<button>Back to Home</button>
+</div>
 <div class="spaces"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>

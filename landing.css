@@ -634,24 +634,31 @@ body {
 
 .team .member {
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+   
+
+ 
 }
 
 .team .member .pic {
-    overflow: hidden;
-    margin-bottom: 50px;
+   margin-right: 20px;
+    width: 300px;
+    height: 300px;
 }
 
 .team .member .member-info {
     background-color: var(--surface-color);
     color: color-mix(in srgb, var(--default-color), transparent 20%);
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-    position: absolute;
-    bottom: -50px;
     left: 20px;
     right: 20px;
     padding: 20px 15px;
-    overflow: hidden;
     transition: 0.5s;
+    width: 300px;
+    height: 300px;
 }
 
 .team .member h4 {

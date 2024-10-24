@@ -44,8 +44,6 @@ color: white;
         <div class="container">
             <div class="row gy-4">
                 <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                    <h1>Onsty Support</h1>
-                    <p>We are always here to support you!</p>
                     <button>Back to Home</button>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 hero-img">
@@ -279,7 +277,7 @@ color: white;
         <div class="container section-title" data-aos="fade-up">
             <span>Onsty Team Members</span>
             <h2>Our Team</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+            <p>This is the onsty support team who work on behalf of the organization's success</p>
         </div>
 
         <div class="container">
@@ -291,8 +289,8 @@ color: white;
                         <div class="member">
                             <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="Walter White"></div>
                             <div class="member-info">
-                                <h4>Walter White</h4>
-                                <span>Chief Executive Officer</span>
+                                <h4>S.A.D.V.P. Samaranayaka </h4>
+                                <span>CEO</span>
                                 <p class="m-3 font-italic" style=" font-size: 14px; letter-spacing: 2px;">Explicabo
                                     voluptatem mollitia et repellat qui dolorum
                                     quasi distinctio
@@ -306,8 +304,8 @@ color: white;
                         <div class="member">
                             <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="Sarah Jhonson"></div>
                             <div class="member-info">
-                                <h4>Sarah Jhonson</h4>
-                                <span>Product Manager</span>
+                                <h4>Dr. Thepul Ginigalage</h4>
+                                <span>Consultant</span>
                                 <p>Explicabo voluptatem mollitia et repellat qui dolorum
                                     quasi distinctio
                                 </p>
@@ -320,8 +318,99 @@ color: white;
                             <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
                             </div>
                             <div class="member-info">
-                                <h4>William Anderson</h4>
-                                <span>CTO</span>
+                                <h4>Sanka Siribaddana </h4>
+                                <span>Project Manager</span>
+                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                    quasi distinctio
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item col-lg-4 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            </div>
+                            <div class="member-info">
+                                <h4>Mindula Dilthushan </h4>
+                                <span>Team Leader / Senior Developer</span>
+                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                    quasi distinctio
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item col-lg-4 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            </div>
+                            <div class="member-info">
+                                <h4>Sandamani Bandara </h4>
+                                <span>Senior Developer </span>
+                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                    quasi distinctio
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item col-lg-4 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            </div>
+                            <div class="member-info">
+                                <h4>Dilmi Wikramasinghe </h4>
+                                <span>Journier Developer </span>
+                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                    quasi distinctio
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item col-lg-4 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            </div>
+                            <div class="member-info">
+                                <h4>Hansala Gamage </h4>
+                                <span>Journier Developer </span>
+                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                    quasi distinctio
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item col-lg-4 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            </div>
+                            <div class="member-info">
+                                <h4>Dilsha Wijesinghe </h4>
+                                <span>Journier Developer </span>
+                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                    quasi distinctio
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item col-lg-4 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            </div>
+                            <div class="member-info">
+                                <h4>Indika paranawithana </h4>
+                                <span>Marketing Manager </span>
+                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                    quasi distinctio
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item col-lg-4 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
+                            </div>
+                            <div class="member-info">
+                                <h4>Darsh Vishwanath</h4>
+                                <span>Marketing specialist </span>
                                 <p>Explicabo voluptatem mollitia et repellat qui dolorum
                                     quasi distinctio
                                 </p>
@@ -330,13 +419,13 @@ color: white;
                     </div>
                 </div>
                 <!-- Carousel controls -->
-                <button class="carousel-control-prev bg-dark" style="width: 50px; " type="button"
+                <button class="carousel-control-prev " style="width: 50px; " type="button"
                     data-bs-target="#teamCarousel" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon  " aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next bg-dark" style="width: 50px; " type="button"
-                    data-bs-target="#teamCarousel" data-bs-slide="next">
+                <button class="carousel-control-next" style="width: 50px; " type="button" data-bs-target="#teamCarousel"
+                    data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>

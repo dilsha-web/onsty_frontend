@@ -206,7 +206,7 @@ color: white;
                 <div class="carousel-item active">
                     <div class="testimonial-item text-center d-flex flex-column justify-content-center"
                         style="height: 300px; align-items: center">
-                        <img src="./images/testimonials/testimonials-1.jpg" class="testimonial-img rounded-circle mb-3"
+                        <img src="./images/testimonials/indika.jpeg" class="testimonial-img rounded-circle mb-3"
                             alt="Saul Goodman">
                         <h3>Saul Goodman</h3>
                         <h4>Ceo &amp; Founder</h4>
@@ -230,7 +230,53 @@ color: white;
                 <div class="carousel-item">
                     <div class="testimonial-item text-center d-flex flex-column justify-content-center"
                         style="height: 300px;  align-items: center">
-                        <img src="./images/testimonials/testimonials-2.jpg" class="testimonial-img rounded-circle mb-3"
+                        <img src="./images/testimonials/sachira.jpeg" class="testimonial-img rounded-circle mb-3"
+                            alt="Sara Wilsson">
+                        <h3>Sara Wilsson</h3>
+                        <h4>Designer</h4>
+                        <div class="stars mb-3">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                        </div>
+                        <p class="px-lg-5">
+                            <i class="bi bi-quote quote-icon-left"></i>
+                            Export tempor illum tamen malis malis eram quae irure esse labore quem
+                            cillum quid cillum eram
+                            malis quorum velit fore eram velit sunt aliqua noster fugiat irure.
+                            <i class="bi bi-quote quote-icon-right"></i>
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="testimonial-item text-center d-flex flex-column justify-content-center"
+                        style="height: 300px;  align-items: center">
+                        <img src="./images/testimonials/tania.jpeg" class="testimonial-img rounded-circle mb-3"
+                            alt="Sara Wilsson">
+                        <h3>Sara Wilsson</h3>
+                        <h4>Designer</h4>
+                        <div class="stars mb-3">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                        </div>
+                        <p class="px-lg-5">
+                            <i class="bi bi-quote quote-icon-left"></i>
+                            Export tempor illum tamen malis malis eram quae irure esse labore quem
+                            cillum quid cillum eram
+                            malis quorum velit fore eram velit sunt aliqua noster fugiat irure.
+                            <i class="bi bi-quote quote-icon-right"></i>
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="testimonial-item text-center d-flex flex-column justify-content-center"
+                        style="height: 300px;  align-items: center">
+                        <img src="./images/testimonials/malan.jpeg" class="testimonial-img rounded-circle mb-3"
                             alt="Sara Wilsson">
                         <h3>Sara Wilsson</h3>
                         <h4>Designer</h4>

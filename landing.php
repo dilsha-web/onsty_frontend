@@ -285,152 +285,199 @@ color: white;
             <div id="teamCarousel" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner row">
 
-                    <div class="carousel-item active col-md-2 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="Walter White"></div>
-                            <div class="member-info">
-                                <h4>S.A.D.V.P. Samaranayaka </h4>
-                                <span>CEO</span>
-                                <p class="m-3 font-italic" style=" font-size: 14px; letter-spacing: 2px;">Explicabo
-                                    voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
+                    <div id="teamCarousel" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="row">
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="Walter White"></div>
+                                            <div class="member-info">
+                                                <h4>S.A.D.V.P. Samaranayaka </h4>
+                                                <span>CEO</span>
+                                                <p class="m-3 font-italic"
+                                                    style="font-size: 14px; letter-spacing: 2px;">
+                                                    Explicabo voluptatem mollitia et repellat qui dolorum quasi
+                                                    distinctio
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="Sarah Jhonson"></div>
+                                            <div class="member-info">
+                                                <h4>Dr. Thepul Ginigalage</h4>
+                                                <span>Consultant</span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi
+                                                    distinctio</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="William Anderson"></div>
+                                            <div class="member-info">
+                                                <h4>Sanka Siribaddana</h4>
+                                                <span>Project Manager</span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi
+                                                    distinctio</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
+                            <div class="carousel-item">
+                                <div class="row">
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="Mindula Dilthushan"></div>
+                                            <div class="member-info">
+                                                <h4>Mindula Dilthushan</h4>
+                                                <span>Team Leader / Senior Developer</span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi
+                                                    distinctio</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="Sandamani Bandara"></div>
+                                            <div class="member-info">
+                                                <h4>Sandamani Bandara</h4>
+                                                <span>Senior Developer</span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi
+                                                    distinctio</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="Dilmi Wikramasinghe"></div>
+                                            <div class="member-info">
+                                                <h4>Dilmi Wikramasinghe</h4>
+                                                <span>Junior Developer</span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi
+                                                    distinctio</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="row">
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="Mindula Dilthushan"></div>
+                                            <div class="member-info">
+                                                <h4>Hansala Gamage </h4>
+                                                <span>Journier Developer </span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                                    quasi distinctio
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="Sandamani Bandara"></div>
+                                            <div class="member-info">
+                                                <h4>Dilsha Wijesinghe </h4>
+                                                <span>Journier Developer </span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                                    quasi distinctio
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/Staff/Indika.jpeg" class="img-fluid"
+                                                    alt="Dilmi Wikramasinghe"></div>
+                                            <div class="member-info">
+                                                <h4>Indika paranawithana </h4>
+                                                <span>Marketing Manager </span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                                    quasi distinctio
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="row">
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                                    alt="Mindula Dilthushan"></div>
+                                            <div class="member-info">
+                                                <h4>Darsh Vishwanath</h4>
+                                                <span>Marketing specialist </span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                                    quasi distinctio
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/Staff/Tharushi.jpg"
+                                                    style="height: 400px; width: 400px;" class="img-fluid"
+                                                    alt="Mindula Dilthushan"></div>
+                                            <div class="member-info">
+                                                <h4>Tharushi</h4>
+                                                <span>Marketing specialist </span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                                    quasi distinctio
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 d-flex">
+                                        <div class="member">
+                                            <div class="pic"><img src="./images/Staff/Deneth.jpeg"
+                                                    style="height: 400px; width: 400px;" class="img-fluid"
+                                                    alt="Mindula Dilthushan"></div>
+                                            <div class="member-info">
+                                                <h4>Deneth</h4>
+                                                <span>Marketing specialist </span>
+                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
+                                                    quasi distinctio
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+
+                        <!-- Carousel Controls -->
+                        <button class="carousel-control-prev" type="button" data-bs-target="#teamCarousel"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#teamCarousel"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+
                     </div>
 
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="Sarah Jhonson"></div>
-                            <div class="member-info">
-                                <h4>Dr. Thepul Ginigalage</h4>
-                                <span>Consultant</span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
-                            </div>
-                            <div class="member-info">
-                                <h4>Sanka Siribaddana </h4>
-                                <span>Project Manager</span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
-                            </div>
-                            <div class="member-info">
-                                <h4>Mindula Dilthushan </h4>
-                                <span>Team Leader / Senior Developer</span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
-                            </div>
-                            <div class="member-info">
-                                <h4>Sandamani Bandara </h4>
-                                <span>Senior Developer </span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
-                            </div>
-                            <div class="member-info">
-                                <h4>Dilmi Wikramasinghe </h4>
-                                <span>Journier Developer </span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
-                            </div>
-                            <div class="member-info">
-                                <h4>Hansala Gamage </h4>
-                                <span>Journier Developer </span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
-                            </div>
-                            <div class="member-info">
-                                <h4>Dilsha Wijesinghe </h4>
-                                <span>Journier Developer </span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
-                            </div>
-                            <div class="member-info">
-                                <h4>Indika paranawithana </h4>
-                                <span>Marketing Manager </span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item col-lg-4 col-md-6">
-                        <div class="member">
-                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid" alt="William Anderson">
-                            </div>
-                            <div class="member-info">
-                                <h4>Darsh Vishwanath</h4>
-                                <span>Marketing specialist </span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                    quasi distinctio
-                                </p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
-                <!-- Carousel controls -->
-                <button class="carousel-control-prev " style="width: 50px; " type="button"
-                    data-bs-target="#teamCarousel" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon  " aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" style="width: 50px; " type="button" data-bs-target="#teamCarousel"
-                    data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
             </div>
-        </div>
     </section>
 
     <!-- Add Bootstrap's JavaScript for carousel -->

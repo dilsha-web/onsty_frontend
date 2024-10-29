@@ -13,28 +13,6 @@
 
 <body>
 
-    <!--<section class="hero">-->
-    <!--    <img src="./images/dark-blue-technology-background-free-vector.jpg" alt="Hero Background" class="img-fluid w-100">-->
-    <!--    <button>Back to Home</button>-->
-    <!--</section>-->
-    <!-- 
-<header id="header" class="header d-flex align-items-center sticky-top">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center">
-
-        <a href="" class="logo d-flex align-items-center me-auto" style="text-decoration: none">
-            <h1 class="sitename">Onsty</h1>
-        </a>
-
-        <nav id="navmenu" class="navmenu">
-            <ul>
-                <li><a href="./landing.php" class="active" style="text-decoration: none">Home</a></li>
-                <li><a href="#services" style="text-decoration: none">Services</a></li>
-                <li><a href="#" style="text-decoration: none">Team</a></li>
-            </ul>
-            <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-        </nav>
-    </div>
-</header> -->
 
 
     <section id="hero" class="hero section" style="
@@ -198,18 +176,19 @@ color: white;
     <section id="testimonials" class="testimonials section bg-dark text-light py-5">
         <div class="container text-center mb-4" data-aos="fade-up">
             <h2>Testimonials</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+            <p>Some feedback received from the teachers who have joined us</p>
         </div>
 
         <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
+
                 <div class="carousel-item active">
-                    <div class="testimonial-item text-center d-flex flex-column justify-content-center"
-                        style="height: 300px; align-items: center">
-                        <img src="./images/testimonials/indika.jpeg" class="testimonial-img rounded-circle mb-3"
-                            alt="Saul Goodman">
-                        <h3>Saul Goodman</h3>
-                        <h4>Ceo &amp; Founder</h4>
+                    <div
+                        class="testimonial-item text-center d-flex flex-column justify-content-center align-items-center">
+                        <img src="./images/testimonials/indika.jpeg" class="testimonial-img mb-3"
+                            alt="Indika Paranawithana">
+                        <h3>Indika Paranawithana</h3>
+                        <h4>BS Sir</h4>
                         <div class="stars mb-3">
                             <i class="bi bi-star-fill text-warning"></i>
                             <i class="bi bi-star-fill text-warning"></i>
@@ -217,23 +196,22 @@ color: white;
                             <i class="bi bi-star-fill text-warning"></i>
                             <i class="bi bi-star-fill text-warning"></i>
                         </div>
-                        <p class="px-lg-5">
+                        <p class="testimonial-text">
                             <i class="bi bi-quote quote-icon-left"></i>
-                            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum
-                            suscipit rhoncus.
-                            Accusantium quam, ultricies eget id, aliquam eget nibh et.
+                            I have been here since the beginning. Very friendly staff. You can talk at any time and
+                            solve any problem.
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
                     </div>
                 </div>
 
                 <div class="carousel-item">
-                    <div class="testimonial-item text-center d-flex flex-column justify-content-center"
-                        style="height: 300px;  align-items: center">
-                        <img src="./images/testimonials/sachira.jpeg" class="testimonial-img rounded-circle mb-3"
-                            alt="Sara Wilsson">
-                        <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
+                    <div
+                        class="testimonial-item text-center d-flex flex-column justify-content-center align-items-center">
+                        <img src="./images/testimonials/sachira.jpeg" class="testimonial-img mb-3"
+                            alt="Sachira Edirisinghe">
+                        <h3>Sachira Edirisinghe</h3>
+                        <h4>Economics Sir</h4>
                         <div class="stars mb-3">
                             <i class="bi bi-star-fill text-warning"></i>
                             <i class="bi bi-star-fill text-warning"></i>
@@ -241,64 +219,62 @@ color: white;
                             <i class="bi bi-star-fill text-warning"></i>
                             <i class="bi bi-star-fill text-warning"></i>
                         </div>
-                        <p class="px-lg-5">
+                        <p class="testimonial-text">
                             <i class="bi bi-quote quote-icon-left"></i>
-                            Export tempor illum tamen malis malis eram quae irure esse labore quem
-                            cillum quid cillum eram
-                            malis quorum velit fore eram velit sunt aliqua noster fugiat irure.
-                            <i class="bi bi-quote quote-icon-right"></i>
-                        </p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="testimonial-item text-center d-flex flex-column justify-content-center"
-                        style="height: 300px;  align-items: center">
-                        <img src="./images/testimonials/tania.jpeg" class="testimonial-img rounded-circle mb-3"
-                            alt="Sara Wilsson">
-                        <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
-                        <div class="stars mb-3">
-                            <i class="bi bi-star-fill text-warning"></i>
-                            <i class="bi bi-star-fill text-warning"></i>
-                            <i class="bi bi-star-fill text-warning"></i>
-                            <i class="bi bi-star-fill text-warning"></i>
-                            <i class="bi bi-star-fill text-warning"></i>
-                        </div>
-                        <p class="px-lg-5">
-                            <i class="bi bi-quote quote-icon-left"></i>
-                            Export tempor illum tamen malis malis eram quae irure esse labore quem
-                            cillum quid cillum eram
-                            malis quorum velit fore eram velit sunt aliqua noster fugiat irure.
-                            <i class="bi bi-quote quote-icon-right"></i>
-                        </p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="testimonial-item text-center d-flex flex-column justify-content-center"
-                        style="height: 300px;  align-items: center">
-                        <img src="./images/testimonials/malan.jpeg" class="testimonial-img rounded-circle mb-3"
-                            alt="Sara Wilsson">
-                        <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
-                        <div class="stars mb-3">
-                            <i class="bi bi-star-fill text-warning"></i>
-                            <i class="bi bi-star-fill text-warning"></i>
-                            <i class="bi bi-star-fill text-warning"></i>
-                            <i class="bi bi-star-fill text-warning"></i>
-                            <i class="bi bi-star-fill text-warning"></i>
-                        </div>
-                        <p class="px-lg-5">
-                            <i class="bi bi-quote quote-icon-left"></i>
-                            Export tempor illum tamen malis malis eram quae irure esse labore quem
-                            cillum quid cillum eram
-                            malis quorum velit fore eram velit sunt aliqua noster fugiat irure.
+                            A highly recommended website. A good site that offers a lot of facilities at a minimum
+                            price.
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
                     </div>
                 </div>
 
+                <div class="carousel-item">
+                    <div
+                        class="testimonial-item text-center d-flex flex-column justify-content-center align-items-center">
+                        <img src="./images/testimonials/tania.jpeg" class="testimonial-img mb-3"
+                            alt="Tania Kariyawasam">
+                        <h3>Tania Kariyawasam</h3>
+                        <h4>English Teacher</h4>
+                        <div class="stars mb-3">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                        </div>
+                        <p class="testimonial-text">
+                            <i class="bi bi-quote quote-icon-left"></i>
+                            Even the grade 04 students in my classes also use the website very easily. Any child can use
+                            it.
+                            <i class="bi bi-quote quote-icon-right"></i>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div
+                        class="testimonial-item text-center d-flex flex-column justify-content-center align-items-center">
+                        <img src="./images/testimonials/malan.jpeg" class="testimonial-img mb-3" alt="Malan Pathirage">
+                        <h3>Malan Pathirage</h3>
+                        <h4>Physics Sir</h4>
+                        <div class="stars mb-3">
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                        </div>
+                        <p class="testimonial-text">
+                            <i class="bi bi-quote quote-icon-left"></i>
+                            Attended our classes and explained well how to use the website. The website is so simple
+                            that a student can easily use it.
+                            <i class="bi bi-quote quote-icon-right"></i>
+                        </p>
+                    </div>
+                </div>
             </div>
 
+            <!-- Carousel controls -->
             <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel"
                 data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -310,14 +286,20 @@ color: white;
                 <span class="visually-hidden">Next</span>
             </button>
 
+            <!-- Carousel indicators -->
             <div class="carousel-indicators">
-                <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="0" class="active"
-                    aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="0"
+                    class="active carousel-indicator" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="1"
                     aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="2"
+                    aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="3"
+                    aria-label="Slide 4"></button>
             </div>
         </div>
     </section>
+
     <div class="spaces"></div>
     <section id="team" class="team section">
         <div class="container section-title" data-aos="fade-up">
@@ -337,7 +319,7 @@ color: white;
                                 <div class="row">
                                     <div class="col-md-4 d-flex">
                                         <div class="member">
-                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                            <div class="pic"><img src="./images/Staff/Deneth.jpeg" class=" img-fluid"
                                                     alt="Walter White"></div>
                                             <div class="member-info">
                                                 <h4>S.A.D.V.P. Samaranayaka </h4>
@@ -364,7 +346,7 @@ color: white;
                                     </div>
                                     <div class="col-md-4 d-flex">
                                         <div class="member">
-                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                            <div class="pic"><img src="./images/Staff/Sanka.jpeg" class="img-fluid"
                                                     alt="William Anderson"></div>
                                             <div class="member-info">
                                                 <h4>Sanka Siribaddana</h4>
@@ -421,7 +403,7 @@ color: white;
                                 <div class="row">
                                     <div class="col-md-4 d-flex">
                                         <div class="member">
-                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                            <div class="pic"><img src="./images/Staff/Hansala .JPG" class="img-fluid"
                                                     alt="Mindula Dilthushan"></div>
                                             <div class="member-info">
                                                 <h4>Hansala Gamage </h4>
@@ -434,7 +416,7 @@ color: white;
                                     </div>
                                     <div class="col-md-4 d-flex">
                                         <div class="member">
-                                            <div class="pic"><img src="./images/team-1.jpg" class="img-fluid"
+                                            <div class="pic"><img src="./images/Staff/Dilsha.png" class="img-fluid"
                                                     alt="Sandamani Bandara"></div>
                                             <div class="member-info">
                                                 <h4>Dilsha Wijesinghe </h4>
@@ -489,20 +471,7 @@ color: white;
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-4 d-flex">
-                                        <div class="member">
-                                            <div class="pic"><img src="./images/Staff/Deneth.jpeg"
-                                                    style="height: 400px; width: 400px;" class="img-fluid"
-                                                    alt="Mindula Dilthushan"></div>
-                                            <div class="member-info">
-                                                <h4>Deneth</h4>
-                                                <span>Marketing specialist </span>
-                                                <p>Explicabo voluptatem mollitia et repellat qui dolorum
-                                                    quasi distinctio
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -524,6 +493,10 @@ color: white;
 
                 </div>
             </div>
+    </section>
+
+    <section class="text-center mt-5">
+        <button class="btn btn-primary justify-content-center">Go back home</button>
     </section>
 
     <!-- Add Bootstrap's JavaScript for carousel -->

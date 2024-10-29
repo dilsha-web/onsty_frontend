@@ -245,24 +245,6 @@ body {
     }
 }
 
-#testimonials .carousel-inner {
-    max-height: 300px;
-    overflow: hidden;
-}
-
-#testimonials .testimonial-item {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-#testimonials .testimonial-img {
-    width: 80px;
-    height: 80px;
-    object-fit: cover;
-}
-
 #testimonials {
     background-image: url('./images/testimonials-bg.jpg');
     background-size: cover;
@@ -270,6 +252,7 @@ body {
     background-repeat: no-repeat;
     position: relative;
     padding: 50px 0;
+    color: #fff;
 }
 
 #testimonials::before {
@@ -285,6 +268,41 @@ body {
 #testimonials .container {
     position: relative;
     z-index: 2;
+}
+
+#testimonials .carousel-inner {
+    max-height: 300px;
+    overflow: hidden;
+}
+
+#testimonials .testimonial-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#testimonials .testimonial-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+#testimonials .stars i {
+    font-size: 1.25rem;
+}
+
+#testimonials .testimonial-text {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    font-size: 1rem;
+}
+
+#testimonials .carousel-indicators {
+    margin-top: 100px;
 }
 
 /* bact to home bottom btn */
@@ -665,9 +683,10 @@ body {
 
 .team .member .pic {
    /* margin-right: 20px;
-    width: 300px;
-    height: 300px; */
+    width: 300px;*/
+    height: 400px; 
     width: 400px;
+    
     
 }
 
